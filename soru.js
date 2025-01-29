@@ -27,7 +27,7 @@ function Soru(soruMetni, cevapSecenekleri, dogruCevap) {
       "a"
     ),
     new Soru(
-      "1-Hangisi javascript programlama dilini kullanmaz?",
+      "4-Hangisi javascript programlama dilini kullanmaz?",
       { a: "React", b: "Angular", c: "Vue.js", d: "Asp.net" },
       "d"
     ),
